@@ -1,9 +1,4 @@
 
-//ESSA É A TELA DA LOJA DE LIVROS-BIBLIOTECA, 
-//SO DEIXEI O NOME ABOUT PORQUE ANTES ERA OUTRA TELA 
-//E NAO QUIS TROCAR O NOME DO FILE PRA NAO ME CONFUNDIR
-
-
 import React, { useState, useEffect } from 'react';
 import { View, Text, Image, TouchableOpacity, ScrollView, StyleSheet, Button } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
