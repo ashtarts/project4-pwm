@@ -1,7 +1,9 @@
 # EducaLivros Mobile App
-<h2>Link do vídeo Demo: </h2>
 
 Este repositório contém o projeto 4: Expansão Digital da EducaLivros com Mobile app, desenvolvido como parte dos requisitos para o curso de desenvolvimento de aplicativos móveis com React Native.
+
+
+<h2>Link do vídeo Demo: </h2>
 
 ## Requisitos do Projeto
 
