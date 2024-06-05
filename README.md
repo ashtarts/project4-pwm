@@ -1,8 +1,6 @@
 # EducaLivros Mobile App
 
-Este repositório contém o projeto 4: Expansão Digital da EducaLivros com Mobile app, desenvolvido como parte dos requisitos para o curso de desenvolvimento de aplicativos móveis com React Native.
-
-
+Este repositório contém o projeto 4: Expansão Digital da EducaLivros com Mobile app, desenvolvido como parte da cadeira de Programaçao Web Mobile na faculdade. [...] versao web: https://project2-html-seven.vercel.app/
 <h2>Link do vídeo Demo: </h2>
 
 ## Requisitos do Projeto
