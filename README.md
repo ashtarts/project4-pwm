@@ -5,7 +5,7 @@ Este repositório contém o projeto 4: Expansão Digital da EducaLivros com Mobi
 Versão web: [EducaLivros Web](https://project2-html-seven.vercel.app/)
 
 ## Link do Vídeo Demo
-[Assista a demonstração do aplicativo no YouTube](https://youtu.be/I6DDHITurp0)
+[Assista a demonstração do aplicativo no YouTube](https://youtu.be/STXu6dJC38s)
 
 ---
 
