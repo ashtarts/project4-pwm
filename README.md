@@ -1,7 +1,6 @@
 # EducaLivros Mobile App
 
-Este repositório contém o projeto 4: Expansão Digital da EducaLivros com Mobile App, desenvolvido como parte da cadeira de Programação Web Mobile na faculdade. A EducaLivros, uma empresa líder no setor de educação, está pronta para dar um salto significativo em sua jornada digital. Impressionada com o sucesso do site, a empresa agora busca expandir sua presença digital entrando no espaço móvel.
-
+Este repositório contém o projeto 4: Expansão Digital da EducaLivros com Mobile App, feito com React Native [...], desenvolvido como parte da cadeira de Programação Web Mobile na faculdade. 
 Versão web: [EducaLivros Web](https://project2-html-seven.vercel.app/)
 
 ## Link do Vídeo Demo
