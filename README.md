@@ -9,10 +9,13 @@ Versão web: [EducaLivros Web](https://project2-html-seven.vercel.app/)
 
 ---
 
+ℂ𝕠𝕟𝕥𝕒𝕔𝕥:
 
-Agradecemos a oportunidade de desenvolver este projeto e estamos confiantes de que o EducaLivros Mobile App proporcionará uma experiência digital rica e envolvente para todos os seus usuários. Para qualquer dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou entrar em contato diretamente.
+<a href="https://www.instagram.com/ashtarts" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+<a href="mailto:anadelira1001@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+<a href="https://www.linkedin.com/in/ana-lira-1103b7246/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+ <div>
 
-**Desenvolvido por:** [Ana Lira - Ashtarts](https://github.com/ashtarts)
+<img src="https://github.com/ashtarts/Programacao3/assets/101262493/f2013538-29ee-4ab8-9d0b-4780f9811503" width="50" />
 
 
-**Contato:** anavildb@gmail.com
