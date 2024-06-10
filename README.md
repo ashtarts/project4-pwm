@@ -1,6 +1,6 @@
 # EducaLivros Mobile App
 
-![EducaLivros Logo](https://github.com/ashtarts/project4-pwm/blob/main/app-escola/assets/LogoEL.png?raw=true) 
+<img src="https://github.com/ashtarts/project4-pwm/blob/main/app-escola/assets/LogoEL.png?raw=true" width="500" alt="EducaLivros Logo">
 
 Bem-vindo ao repositório do projeto EducaLivros Mobile App! Este projeto foi desenvolvido como parte da cadeira de Programação Web Mobile na faculdade, com o objetivo de expandir a presença digital da EducaLivros através de um aplicativo mobile.
 
