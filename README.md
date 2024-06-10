@@ -22,6 +22,12 @@ Bem-vindo ao repositório do projeto EducaLivros Mobile App! Este projeto foi de
 
 ---
 
+## Fluxograma de Navegação
+
+<img src="https://github.com/ashtarts/project4-pwm/blob/main/app-escola/fluxograma%20de%20navega%C3%A7%C3%A3o/fluxograma%20pwm.png?raw=true" alt="Fluxograma de Navegação" width="800">
+
+---
+
 
 ## Versão Web
 
