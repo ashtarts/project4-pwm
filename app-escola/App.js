@@ -26,7 +26,7 @@ export default function App() {
 
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="Login">
+      <Stack.Navigator initialRouteName="Home">
         {/* Login screen */}
         <Stack.Screen
           name="Login"
@@ -42,7 +42,7 @@ export default function App() {
           options={{
             headerShown: false,
           }}>
-          {(props) => <Home {...props} channelName={"Thapa Technical"} />}
+          {(props) => <Home {...props} channelName={"EL"} />}
         </Stack.Screen>
 
         {/* Course Screen */}
@@ -54,7 +54,7 @@ export default function App() {
               fontSize: 25,
               fontFamily: "Nunito_700Bold",
             },
-            headerTitle: "Courses",
+            headerTitle: "Cursos",
             headerTitleAlign: "center",
           }}
         />
@@ -68,7 +68,7 @@ export default function App() {
               fontSize: 25,
               fontFamily: "Nunito_700Bold",
             },
-            headerTitle: "Students Data",
+            headerTitle: "Loja",
             headerTitleAlign: "center",
           }}
         />
@@ -82,6 +82,7 @@ export default function App() {
               fontSize: 25,
               fontFamily: "Nunito_700Bold",
             },
+            headerTitle: "Biblioteca",
             headerTitleAlign: "center",
           }}
         />
@@ -95,6 +96,7 @@ export default function App() {
               fontSize: 25,
               fontFamily: "Nunito_700Bold",
             },
+            headerTitle: "Portal",
             headerTitleAlign: "center",
           }}
         />
